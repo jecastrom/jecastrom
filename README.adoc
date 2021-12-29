@@ -1,4 +1,4 @@
-= My Profile
+= Data Analysis Courswork:
 :toc:
 :toc-title: 
 :toc-placement!:
@@ -16,7 +16,6 @@ ifndef::env-github[]
 endif::[]
 
 
-# Data Analysis Courswork:
 
 https://github.com/stars/jecastrom/lists/sql-ironhack-activities[SQL Ironhack Activities]
 
