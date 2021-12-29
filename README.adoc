@@ -1,4 +1,4 @@
-= Data Analysis Courswork:
+= Data Analytics Courswork:
 :toc:
 :toc-title: 
 :toc-placement!:
