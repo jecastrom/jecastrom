@@ -21,5 +21,24 @@ https://github.com/stars/jecastrom/lists/sql-ironhack-activities[SQL Activities 
 
 https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Labs Ironhack]
 
+https://github.com/stars/jecastrom/lists/other-data-activities[Other data activities]
 
+[cols="1,1,2", options="header"] (1)
+.Applications
+|===
+|Name
+|Category
+|Description
+
+|Firefox
+|Browser
+|Mozilla Firefox is an open-source web browser.
+It's designed for standards compliance,
+performance, portability.
+
+|Arquillian
+|Testing
+|An innovative and highly extensible testing platform.
+Empowers developers to easily create real, automated tests.
+|===
 
