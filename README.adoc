@@ -24,7 +24,7 @@ https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Labs Ironhack]
 https://github.com/stars/jecastrom/lists/other-data-activities[Other data activities]
 
 
-
+[cols="1,1,2", options="header"] (1)
 |===
 |Name
 |Category
