@@ -26,17 +26,16 @@ https://github.com/stars/jecastrom/lists/other-data-activities[Other data activi
 
 
 |===
-|Name
-|Category
-|Description
-
-|Firefox
-|Browser
-|Mozilla Firefox is an open-source web browser.
-
-|Arquillian
-|Testing
-|An innovative and highly extensible testing platform.
-Empowers developers to easily create real, automated tests.
-|===
-
+|https://github.com/jecastrom?tab=stars[List of Repositories by Categories] |https://github.com/stars/jecastrom/lists/sql-ironhack-activities[SQL Activities Ironhack] |https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Labs Ironhack] |https://github.com/stars/jecastrom/lists/other-data-activities[Other data activities]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+||===
