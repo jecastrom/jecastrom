@@ -24,8 +24,12 @@ https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Labs Ironhack]
 https://github.com/stars/jecastrom/lists/other-data-activities[Other data activities]
 
 
-[cols="2,2,5a"]
+.Applications
 |===
+|Name
+|Category
+|Description
+
 |Firefox
 |Browser
 |Mozilla Firefox is an open-source web browser.
