@@ -18,7 +18,7 @@ endif::[]
 
 |===
 |https://github.com/jecastrom?tab=stars[List of Repositories by Categories] |https://github.com/stars/jecastrom/lists/sql-ironhack-activities[SQL Activities Ironhack] |https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Labs Ironhack] |https://github.com/stars/jecastrom/lists/other-data-activities[Other data activities]
-|https://github.com/stars/jecastrom/lists/python-data-labs[Python Data Labs]
+|https://github.com/stars/jecastrom/lists/python-data-labs[Python Data Labs] https://github.com/stars/jecastrom/lists/tableau-labs-ironhack[Tableau Labs Ironhack]
 |
 |
 |
