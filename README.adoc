@@ -1,4 +1,4 @@
-= Data Analytics Courswork:
+= Ironhack's Data BootCamp Courswork:
 :toc:
 :toc-title: 
 :toc-placement!:
